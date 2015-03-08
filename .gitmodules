@@ -1,0 +1,3 @@
+[submodule "my_modules/hubot-github-repo-event-notifier"]
+	path = my_modules/hubot-github-repo-event-notifier
+	url = https://github.com/lornajane/hubot-github-repo-event-notifier.git
